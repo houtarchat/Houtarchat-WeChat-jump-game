@@ -1,6 +1,6 @@
 # wechat_jump_game
 _微信跳一跳Python辅助_<br/>
-Windows 免添加配置 adb 环境变量方式
+<h3>Windows 免添加配置 adb 环境变量方式</h3>
 
 <h4>使用说明：</h4>
 1.在Tools/adb文件下操作：按住 shift + 右键 选择在该文件夹下打开命令窗口<br/>
