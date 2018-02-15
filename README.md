@@ -1,5 +1,5 @@
 # wechat_jump_game
-_微信跳一跳Python辅助_
+_微信跳一跳Python辅助_<br/>
 Windows 免添加配置 adb 环境变量方式
 
 <h4>使用说明：</h4>
