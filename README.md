@@ -7,7 +7,7 @@ _微信跳一跳Python辅助_<br/>
 2.一部安卓手机
 
 <h4>使用说明：</h4>
-1.下载Python3（安装包百度网盘链接链接:https://pan.baidu.com/s/1pMlSV0J 密码:195k）记得勾选 "Add Python 3.5 to PATH" 选项哦<br>
+1.下载Python3（安装包百度网盘链接:https://pan.baidu.com/s/1pMlSV0J 密码:195k）记得勾选 "Add Python 3.5 to PATH" 选项哦<br>
 2.把本文件下载至桌面<br>
 3.安装依赖文件<br>
 打开cmd，依次输入<br/>
