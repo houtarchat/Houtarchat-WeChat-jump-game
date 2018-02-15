@@ -18,7 +18,7 @@ pip install -r requirements.txt<br>
 adb devices<br>
 进行测试，如果有连接设备号则表示成功<br/>
 6.打开跳一跳，然后在cmd中运行<br>
-python wechat_jump_py3.py<br>
+python wechat_jump_auto.py<br>
 7.慢慢跳吧~~~<br>
 8.在跳的时候偶尔快速点击屏幕，向前跳动一点儿，预防微信在结束时显示“分数可疑，不显示在排行榜中”<br>
 9.享受朋友们的惊讶吧！<br>
