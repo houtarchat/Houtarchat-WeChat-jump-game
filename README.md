@@ -1,7 +1,7 @@
 # wechat_jump_game
 _微信跳一跳Python辅助_<br/>
 <h3>Windows 免添加配置 adb 环境变量方式</h3>
-
+<img src="http://nzr2ybsda.qnssl.com/images/74643/FgUPXs0kHPOf4r4YUaHYI8acZ1et.JPG?imageMogr2/strip/thumbnail/1920x9000%3E/quality/90!/interlace/1/format/jpg">
 <h4>物质需求：</h4>
 1.一台Windows电脑（我用的是Windows 10）
 2.一部安卓手机
