@@ -5,9 +5,9 @@ _微信跳一跳Python辅助_<br/>
 <h4>物质需求：</h4>
 1.一台Windows电脑（我用的是Windows 10）
 2.一部安卓手机
-
+3.Houtarchat.kuaizhan.com
 <h4>使用说明：</h4>
-1.下载Python3（安装包百度网盘链接:https://pan.baidu.com/s/1pMlSV0J 密码:195k）记得勾选 "Add Python 3.5 to PATH" 选项哦<br>
+1.下载Python3(Houtarchat.kuaizhan.com)记得勾选 "Add Python 3.5 to PATH" 选项哦<br>
 2.把本文件下载至桌面,并将下载的文件夹名称改为wechat_jump_game<br>
 3.安装依赖文件<br>
 打开cmd，依次输入<br/>
@@ -21,6 +21,3 @@ python wechat_jump_auto.py<br>
 6.慢慢跳吧~~~<br>
 7.在跳的时候偶尔快速点击屏幕，向前跳动一点儿，预防微信在结束时显示“分数可疑，不显示在排行榜中”<br>
 8.享受朋友们的惊讶吧！<br>
-
-PS：分数不要刷太高，玩一玩就行了，分数太高会破坏友谊的<br>
-PPS：大家不要沉迷游戏哦
